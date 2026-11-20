@@ -1,0 +1,6 @@
+{
+  "name": "E6B Pro",
+  "description": "Advanced digital & circular E6B flight computer with interactive wind triangle, ISA atmosphere, weight & balance CG envelope, holding entry, and multi-leg navlog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

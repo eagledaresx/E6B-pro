@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">E6B Pro</string>
+    <string name="cockpit_header_title">E6B PRO FLIGHT COMPUTER</string>
+    <string name="cockpit_header_subtitle">TACTICAL AVIONICS &amp; PERFORMANCE SYSTEM</string>
+    <string name="tab_wind">Wind &amp; E6B</string>
+    <string name="tab_atmos">Atmos &amp; Speed</string>
+    <string name="tab_flight">Flight &amp; Hold</string>
+    <string name="tab_wb">Weight &amp; CG</string>
+    <string name="tab_navlog">NavLog &amp; Data</string>
+    <string name="action_night_mode">Toggle Night Cockpit Red Mode</string>
+    <string name="action_import_export">Import or Export E6B Data</string>
+    <string name="action_unit_converter">Quick Aviation Unit Converter</string>
+    <string name="action_save_calculation">Save to Cockpit Log</string>
+    <string name="label_wind_triangle">Wind Vector &amp; Crosswind</string>
+    <string name="label_whiz_wheel">Circular Slide Rule</string>
+    <string name="label_within_limits">CG &amp; WEIGHT WITHIN ENVELOPE</string>
+    <string name="label_out_of_limits">CAUTION: CG / WEIGHT OUT OF LIMITS</string>
+</resources>
